@@ -1,0 +1,7 @@
+method,slope,lower_ci,upper_ci
+Multiple imputation (mean),0.001690592708016865,0.001596019822786042,0.001768510341771078
+Weighted regression,0.0015478821929410136,,
+Direct correlation,0.0044389131282259655,,
+Mean (per bin),0.0016960991075756382,,
+Median (per bin),0.0016960991075756382,,
+No imputation (listwise),0.007256610926793992,,
